@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @honkez
 - 👀 I’m interested in Electrical engineering  with focus on automation and machine communication
-- 🌱 I’m currently learning skills to improve my understanding of machinelearning
+- 🌱 I’m currently updating skills to improve my understanding of machinelearning
 - 📫 How to reach me , via my mail : honxen@gmail.com
 
 <!---
